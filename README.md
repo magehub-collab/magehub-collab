@@ -1,3 +1,7 @@
+Boa, bora deixar Warpunk mais presente nesse README.
+Segue o arquivo completo já **reformatado, com mais info, link e ícone da Warpunk** – é só copiar e colar:
+
+```markdown
 # ⚙️ M.A.G.E
 
 <p align="center">
@@ -93,14 +97,14 @@ Born inside our digital engineering practice, **Warpunk Interactive** is the **g
 
 Warpunk:
 
-- Builds **original IPs** and **on-demand experiences** for brands that want to go beyond “just play”  
-- Designs **product gamification**, **immersive training**, **interactive activations** and **worlds that deepen audience relationships**  
+- Builds **original IPs** and **on-demand experiences** for brands that want to go beyond “play”  
+- Designs **product gamification**, **immersive training**, **interactive activations**, and **worlds that deepen audience relationships**  
 - Fuses **game design, cutting-edge tech, and business goals** to turn engagement into **learning, retention, and revenue**  
-- Operates from **rapid prototypes** to **live-ops**, com **pipelines end-to-end e métricas de impacto claras**  
+- Operates from **rapid prototypes to live-ops**, delivering **end-to-end pipelines with clear impact metrics**  
 
-> If your brand sees games as a platform for value, **Warpunk is your next map.**
+If your brand sees **games as a platform for value**, Warpunk is your next map.
 
-M.A.G.E provides the **engineering backbone**. Warpunk turns it into **playable, measurable experiences**.
+> M.A.G.E provides the **engineering backbone**. Warpunk turns it into **playable, measurable experiences**.
 
 ---
 
@@ -123,20 +127,25 @@ From M.A.G.E and its companies, expect:
 - Architecture learnings from real systems and integrations  
 - Practical cases of AI, analytics and platforms in production  
 - Frameworks and mental models to **ship value in days, not months**  
-- From Warpunk: insights on **game-based experiences, gamification and interactive learning**  
+- From **Warpunk Interactive**: insights on **game-based experiences, gamification and interactive learning**  
 
 If technology is your **growth lever**, this is where we talk about making it real.
 
 ---
 
-## 🌐 Connect with M.A.G.E
+## 🌐 Connect with Us
 
 <p align="center">
   <a href="https://www.linkedin.com/company/m-a-g-e/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="M.A.G.E on LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/warpunk-interactive/">
+    <img src="https://img.icons8.com/color/48/controller.png" alt="Warpunk Interactive on LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <b>Follow M.A.G.E</b> to see how we turn complexity into clarity — and how our hub (including <b>Warpunk Interactive</b>) can support your next digital initiative.
+  <b>Follow M.A.G.E</b> to see how we turn complexity into clarity — and follow <b>Warpunk Interactive</b> to explore how games become a platform for value, learning, and long-term engagement.
 </p>
+```
