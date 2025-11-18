@@ -1,6 +1,3 @@
-Boa, bora deixar Warpunk mais presente nesse README.
-Segue o arquivo completo já **reformatado, com mais info, link e ícone da Warpunk** – é só copiar e colar:
-
 ```markdown
 # ⚙️ M.A.G.E
 
