@@ -1,10 +1,8 @@
-```markdown
 # ⚙️ M.A.G.E
 
-> **Digital engineering with a business yardstick — from blueprint to impact at digital speed.**
-
-M.A.G.E architects and operates **systems, platforms, and integrations** that underpin critical operations and connect digital ecosystems.  
-We turn **complexity into clarity**, aligning technology decisions with business outcomes instead of treating them as isolated “IT projects”.
+<p align="center">
+  <em>Digital engineering with a business yardstick — from blueprint to impact at digital speed.</em>
+</p>
 
 ---
 
@@ -12,37 +10,61 @@ We turn **complexity into clarity**, aligning technology decisions with business
 
 M.A.G.E is a **digital engineering hub** based in Florida, bringing together specialized technology companies under one umbrella.
 
-At our core, we:
+We architect and operate:
 
-- Design and run **mission-critical systems and platforms**
-- Build **rock-solid integrations** between teams, tools, and data
-- Deliver **applicable AI** and **ready-to-use analytics**, not just PoCs
-- Treat **security as a first-class concern**, baked into every design
-- Use **P&L fluency** as a filter for engineering decisions
+- **Systems and platforms** that underpin critical operations  
+- **Integrations** that connect ecosystems instead of creating new silos  
+- **Applicable AI and ready-to-use analytics**  
+- Architectures where **security is by design**, not an afterthought  
 
-Our metric is simple:  
+Our lens is always dual:
+
+- ⚙️ **Technical precision**  
+- 📊 **P&L fluency (business yardstick)**  
+
+Our metric is simple:
+
 > **Less friction. Greater efficiency. Real-time decisions.**
 
 ---
 
 ## 🧬 Our Stance: Evolutionary Platforms
 
-Pressure for **shorter cycles** and **predictable cost** has changed how high-performing companies build software. Instead of “start-and-finish” projects, they invest in **evolutionary platforms**: modular components, clear contracts between teams, observability from day one, and safe ways to change course without rewriting everything.
+Pressure for **shorter cycles** and **predictable cost** has reshaped how software is built. High-performing companies treat their tech foundations as **evolutionary platforms**, not one-off projects.
 
-At M.A.G.E, this mindset shows up in three habits:
+That means:
+
+- Pluggable modules  
+- Stable contracts between teams  
+- Telemetry from day one  
+- Reversibility by default  
+
+The impact:
+
+- ⏱️ Shorter time-to-value  
+- 🧩 Distributed risk  
+- 🔁 Ability to adapt without rewriting everything  
+
+At M.A.G.E, this mindset aparece em **três hábitos principais**:
 
 1. **Design APIs as products**  
-   APIs have owners, clear SLOs, and defined consumers. They are versioned, observable, and treated as long-lived products, not throwaway glue.
+   - Clear SLOs  
+   - Ownership definido  
+   - Observability e versionamento como padrão  
 
 2. **Automate the path from code to customer**  
-   From commit to rollout, we focus on pipelines that make delivery safe, reversible, and repeatable—so releases become routine, not events.
+   - Do commit ao rollout com segurança e reversibilidade  
+   - Releases deixam de ser “eventos” e viram rotina saudável  
 
-3. **Measure what actually matters**  
-   Latency, cost, adoption, and revenue are first-class signals. We build telemetry into the architecture so decisions are made on facts, not guesses.
+3. **Measure what matters**  
+   - Latency  
+   - Cost  
+   - Adoption  
+   - Revenue  
 
-When platforms evolve this way, **engineering becomes invisible to the user**—and that’s exactly why the experience feels “magical”.
+Quando plataformas evoluem assim, a engenharia se torna **invisível para o usuário** — e é justamente isso que faz a experiência parecer “mágica”.
 
-> Evolutionary platforms are not a tool; they’re a stance. They start small, deliver early, and never stop learning.
+> **Evolutionary platforms aren’t a tool; they’re a stance. They start small, deliver early, and never stop learning.**
 
 ---
 
@@ -50,31 +72,13 @@ When platforms evolve this way, **engineering becomes invisible to the user**—
 
 We support end-to-end digital initiatives, from architecture to operations:
 
-| Area | What we deliver |
-|------|-----------------|
-| 🧱 Systems & Platforms | Design and operation of scalable, resilient systems aligned with business goals. |
-| 🔗 Integrations | Stable, observable integrations that connect CRMs, ERPs, data platforms, and external services. |
-| 🤖 Applicable AI | AI embedded in real workflows with clear value cases and measurable business impact. |
-| 📊 Analytics | Ready-to-use analytics and data flows that enable real-time, informed decisions. |
-| 🔒 Security by Design | Architectures where identity, access, and data protection are built in from the start. |
-
----
-
-## 🚀 How We Deliver
-
-We design and ship with a consistent set of principles:
-
-- 🧮 **Business yardstick first**  
-  Every technical choice is evaluated on its impact on cost, risk, and revenue.
-
-- ⚡ **Value in days, not months**  
-  We favor patterns, platforms, and processes that unlock incremental value quickly.
-
-- 🔍 **Clarity over noise**  
-  We simplify complex systems so both tech and business teams can navigate and own them.
-
-- 🧱 **Built to stand and scale**  
-  We design architectures that can grow with the business instead of being rewritten every cycle.
+| Area                     | What we deliver                                                                 |
+|--------------------------|----------------------------------------------------------------------------------|
+| 🧱 Systems & Platforms   | Design and operation of scalable, resilient systems aligned with business goals. |
+| 🔗 Integrations          | Stable, observable integrations connecting CRMs, ERPs, data platforms, services. |
+| 🤖 Applicable AI         | AI embedded in real workflows with clear value cases and measurable impact.      |
+| 📊 Analytics             | Ready-to-use analytics that enable real-time, informed decisions.               |
+| 🔒 Security by Design    | Identity, access and data protection built in from the first blueprint.         |
 
 ---
 
@@ -89,28 +93,26 @@ Born inside our digital engineering practice, **Warpunk Interactive** is the **g
 
 Warpunk:
 
-- Builds **original IPs** and **on-demand interactive experiences** for brands that want to go beyond “just play”
-- Designs **product gamification**, **immersive training**, **interactive activations**, and **worlds that deepen audience relationships**
-- Fuses **game design, cutting-edge tech, and business goals** to turn engagement into **learning, retention, and revenue**
-- Operates from **rapid prototypes** to **live-ops pipelines**, always with **clear impact metrics**
+- Builds **original IPs** and **on-demand experiences** for brands that want to go beyond “just play”  
+- Designs **product gamification**, **immersive training**, **interactive activations** and **worlds that deepen audience relationships**  
+- Fuses **game design, cutting-edge tech, and business goals** to turn engagement into **learning, retention, and revenue**  
+- Operates from **rapid prototypes** to **live-ops**, com **pipelines end-to-end e métricas de impacto claras**  
 
-If your brand sees **games as a platform for value**, Warpunk is your next map.
+> If your brand sees games as a platform for value, **Warpunk is your next map.**
 
-> M.A.G.E provides the **engineering backbone**. Warpunk turns it into **playable, measurable experiences**.
-
-*(More companies and verticals will be added to the hub as we expand.)*
+M.A.G.E provides the **engineering backbone**. Warpunk turns it into **playable, measurable experiences**.
 
 ---
 
 ## 🏢 Company Snapshot
 
-| Field            | Detail                               |
-|------------------|--------------------------------------|
-| Sector           | Technology, Information & Media      |
-| Model            | Digital Engineering Hub              |
-| Company Size     | 2–10 employees                       |
-| Headquarters     | Florida, USA                         |
-| Founded          | 2025                                 |
+| Field         | Detail                          |
+|--------------|----------------------------------|
+| Sector       | Technology, Information & Media  |
+| Model        | Digital Engineering Hub          |
+| Company Size | 2–10 employees                   |
+| Headquarters | Florida, USA                     |
+| Founded      | 2025                             |
 
 ---
 
@@ -119,9 +121,9 @@ If your brand sees **games as a platform for value**, Warpunk is your next map.
 From M.A.G.E and its companies, expect:
 
 - Architecture learnings from real systems and integrations  
-- Practical cases of AI, analytics, and platforms in production  
+- Practical cases of AI, analytics and platforms in production  
 - Frameworks and mental models to **ship value in days, not months**  
-- From Warpunk: insights on **game-based experiences, gamification, and interactive learning**
+- From Warpunk: insights on **game-based experiences, gamification and interactive learning**  
 
 If technology is your **growth lever**, this is where we talk about making it real.
 
@@ -130,10 +132,11 @@ If technology is your **growth lever**, this is where we talk about making it re
 ## 🌐 Connect with M.A.G.E
 
 <p align="center">
-  <a href="https://www.linkedin.com/company/m-a-g-e/"><img src="https://img.icons8.com/color/48/linkedin.png" /></a>
+  <a href="https://www.linkedin.com/company/m-a-g-e/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>Follow M.A.G.E</b> to explore how we turn complexity into clarity — and how our hub (including <b>Warpunk Interactive</b>) can support your next digital initiative.
+  <b>Follow M.A.G.E</b> to see how we turn complexity into clarity — and how our hub (including <b>Warpunk Interactive</b>) can support your next digital initiative.
 </p>
-```
